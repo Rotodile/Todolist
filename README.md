@@ -1,2 +1,3 @@
-# vue-todo-app
-Learn Vue.js doing a Todo app with routing
+# Todolist app
+
+This is my Todolist project from The Odin Project curriclum. 
