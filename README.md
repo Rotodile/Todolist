@@ -1,3 +1,3 @@
 # Todolist app
 
-This is my Todolist project from The Odin Project curriclum. 
+This is my Vue Todolist project from The Odin Project curriclum. 
