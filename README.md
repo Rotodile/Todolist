@@ -2,4 +2,4 @@
 
 This is my Vue.js Todolist project from "The Odin Project" curriculum. 
 
-[Live preview](https://areebaishtiaq.github.io/Todolist)
+[Live preview](https://ribaishtiaq.github.io/Todolist)
